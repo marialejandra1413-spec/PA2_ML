@@ -1,0 +1,8 @@
+PROMPT UTILIZADO PARA CREAR EL APLICATIVO: 
+Crea una aplicación web en Streamlit para predecir la supervivencia
+de pasajeros del Titanic. La app debe:
+1. Tener un formulario con los campos: Pclass, Sex, Age, SibSp, Parch, Fare, Embarked
+2. Cargar un modelo de Machine Learning desde un archivo .pkl guardado en la carpeta modelos/
+3. Mostrar la predicción (Sobrevivió / No sobrevivió) con un mensaje visual
+4. Incluir mi nombre, código ISIL y un enlace a mi cuaderno de Google Colab
+5. Usar un diseño limpio con emojis y colores apropiados
