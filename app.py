@@ -18,7 +18,7 @@ st.markdown(
     """
 **👤 Nombre:** TU NOMBRE COMPLETO  
 **🎓 Código ISIL:** TU_CODIGO_ISIL  
-**📓 Cuaderno Colab:** [Ver cuaderno aquí](https://colab.research.google.com/TU_ENLACE_AQUI)
+**📓 Cuaderno Colab:** [Ver cuaderno aquí](https://colab.research.google.com/drive/1jjCVQLmSF-AZA1UPCBAVa1coJ0UGTZuY)
 """
 )
 st.markdown("---")
