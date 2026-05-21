@@ -18,7 +18,7 @@ st.markdown(
     """
 **👤 Nombre:** Bella Espinoza Rocha  
 **🎓 Código ISIL:** 77044130  
-**📓 Cuaderno Colab:** [Ver cuaderno aquí](https://colab.research.google.com/drive/1jjCVQLmSF-AZA1UPCBAVa1coJ0UGTZuY)
+**📓 Cuaderno Colab:** [Ver cuaderno aquí](https://colab.research.google.com/drive/1jjCVQLmSF-AZA1UPCBAVa1coJ0UGTZuY?usp=sharing)
 """
 )
 st.markdown("---")
